@@ -23,4 +23,3 @@ Slides of IMA presentation can be found in https://warwick.ac.uk/fac/sci/mathsys
 Developed code to perform Bayesian optimisation using Expected Improvement as an acquisition function and Probability
 of Feasibility to adapt the constrains of the problem. This code marginalise the hyperparameters after the mcmc
 sampling using Slice Sampling yields several samples from the posterior distribution. 
-
