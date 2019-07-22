@@ -1,4 +1,4 @@
-##toy_IU_project.py
+# toy_IU_project.py
 
 toy code for Input Uncertainty results. This code represented the basis for the result of the IMA conference 
 presentation 2019. Simulation optimisation, i.e., the search for a design or solution that optimises some output value 
@@ -18,7 +18,7 @@ that performs well across the possible input distribution, but may not be best f
 
 Slides of IMA presentation can be found in https://warwick.ac.uk/fac/sci/mathsys/people/students/2017intake/ungredda/
 
-##full_bayes_EI.py
+# full_bayes_EI.py
 
 Developed code to perform Bayesian optimisation using Expected Improvement as an acquisition function and Probability
 of Feasibility to adapt the constrains of the problem. This code marginalise the hyperparameters after the mcmc
